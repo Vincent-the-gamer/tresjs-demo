@@ -1,5 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# TresJS Demo
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Try to use TresJS + ThreeJS to render a 3D Model.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+# Model
+
+From [Sketchfab](https://sketchfab.com/)
+
+## Model License
+
+[Model License](./public/models/elaina_anim_model/license.txt)
+
+License under CC-BY-NC-ND-4.0.
