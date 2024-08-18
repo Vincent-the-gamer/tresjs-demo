@@ -20,7 +20,6 @@ import { OrbitControls } from '@tresjs/cientos'
       <Suspense>
         <Girl />
       </Suspense>
-      <TresGridHelper />
     </TresCanvas>
   </div>
 </template>
