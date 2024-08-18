@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Girl from "./components/Girl.vue"
 import { TresCanvas } from '@tresjs/core'
+// @ts-ignore
 import { OrbitControls } from '@tresjs/cientos'
 </script>
 
